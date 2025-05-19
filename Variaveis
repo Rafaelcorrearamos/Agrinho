@@ -1,0 +1,7 @@
+// definindo variaveis globais let jardineiro;
+let plantas = [];
+let temperatura = 10;
+let totalArvores = 0;
+
+
+ 
